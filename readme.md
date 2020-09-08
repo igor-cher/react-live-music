@@ -1,4 +1,4 @@
-live-app:
+live-music-app:
 
 https://csb-eil33.netlify.app/
 
